@@ -51,6 +51,8 @@ import VProgressRing from "./components/progress-ring.vue";
 import VIcon from "./components/icon.vue";
 import VTag from "./components/tag.vue";
 
+import VItemSelect from "./components/item-select/item-select.vue";
+
 // Extensions
 Vue.component("v-ext-page", VExtPage);
 Vue.component("v-ext-input", VExtInput);
@@ -101,3 +103,5 @@ Vue.component("v-upload", VUpload);
 Vue.component("v-progress-ring", VProgressRing);
 Vue.component("v-icon", VIcon);
 Vue.component("v-tag", VTag);
+
+Vue.component("v-item-select", VItemSelect);
