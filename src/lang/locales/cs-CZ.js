@@ -32,7 +32,7 @@ export default {
   advanced_options: "Pokročilé možnosti",
   all: "Vše",
   almost_done_copy:
-    "Každé rozhraní může být přizpůsobeno vašim potřebám. Níže jsou uvedeny možnosti dostupné pro toto pole.",
+    "Každé rozhraní může být přizpůsobeno Vašim potřebám. Níže jsou uvedeny možnosti dostupné pro toto pole.",
   almost_done_options: "Téměř hotovo! Nyní jen zkontrolujte níže uvedené možnosti rozhraní.",
   api_installed: "API úspěšně nainstalováno",
   api_url: "API URL",
@@ -108,7 +108,7 @@ export default {
       DATETIME: "Datum a čas. Dovoluje `1000-01-01 00:00:00` až `9999-12-31 23:59:59`.",
       DECIMAL:
         "Přesné číslo (např.: pro měnu) s délkou 1 až 65 číslic (L) a 0 až 30 desetinných míst (D). Formát délky: `L,D`",
-      DOUBLE: "Přibližné binární číslo, 8 bajty s desetinnou čárkou.",
+      DOUBLE: "Přibližné binární číslo, 8 bajtů s desetinnou čárkou.",
       FLOAT: "Přibližné binární číslo, 4 bajty s desetinnou čárkou.",
       INT:
         "Celé číslo. Se znaménkem (povolena záporná čísla) je délka -2 147 483 648 až 2 147 483 647, jinak je maximum 4 294 967 295.",
@@ -169,7 +169,7 @@ export default {
   email: "Email",
   email_address: "Emailová adresa",
   embed: "Vložení",
-  embed_placeholder: "YouTube, Vimeo, nebo jiný link",
+  embed_placeholder: "YouTube, Vimeo, nebo jiný odkaz",
   empty_collection: "Kategorie je prázdná ",
   empty_collection_body: "V této kategorii ještě nejsou žádné položky",
   enable_manual_sorting: "Zapnout manuální řazení",
@@ -202,7 +202,7 @@ export default {
   field_removed: "Pole {field} smazáno",
   field_type: "Typ pole",
   field_updated: "Pole {field} aktualizováno",
-  field_width: "Field Width",
+  field_width: "Šířka pole",
   fields: "Sloupce",
   fields_are_saved_instantly: "Změny jsou ukládány okamžitě",
   fieldtypes: {
@@ -261,7 +261,7 @@ export default {
   interface: "Rozhraní",
   interface_count: "Žádná rozhraní | Jedno rozhraní | {count} rozhraní",
   interface_settings:
-    "Každé rozhraní může být dokonale přizpůsobeno vašim potřebám. Níže jsou uvedeny dostupné možnosti tohoto rozhraní, ale pouze některé z nich jsou vyžadovány.",
+    "Každé rozhraní může být dokonale přizpůsobeno Vašim potřebám. Níže jsou uvedeny dostupné možnosti tohoto rozhraní, ale pouze některé z nich jsou vyžadovány.",
   interfaces: "Rozhraní",
   is_empty: "Je prázné",
   is_not_null: "Není NULL",
@@ -288,7 +288,7 @@ export default {
   manage: "Řídit",
   manage_started: "Řízení {collection} zahájeno",
   manage_stopped: "Řízení {collection} zastaveno",
-  max_one_primary_key: "You can only have 1 primary key field per collection",
+  max_one_primary_key: "Můžete mít pouze 1 pole s primárním klíčem pro danou kategorii",
   max_size: "Max. velikost: {size}",
   mixed: "Smíšené",
   modified_by: "Upravil/-a",
